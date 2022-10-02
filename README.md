@@ -33,5 +33,5 @@
 ### :bar_chart: Моя статистика :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhoine345&show_icons=true&theme=dark&background=000000)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoine345&card_height=150px&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoine345&card_height=150px&theme=dark&background=000000&layout=compact)
 
