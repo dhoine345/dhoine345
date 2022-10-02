@@ -6,14 +6,22 @@
   <a href="https://t.me/beren345">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="mailto:semiv@inbox.ru">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email Badge"/>
+  </a>
 </div>
 
 <br /> 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стек :
 <img align="left" width="26px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
-<img align="left" width="26px" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+<img align="left" width="26px" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" width="26px" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" width="26px" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+<img align="left" width="26px" alt="Express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"/>
+<img align="left" width="26px" alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" width="26px" alt="VScode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>
+<img align="left" width="26px" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
 <br />
 
 - - -
